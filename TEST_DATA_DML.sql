@@ -11,7 +11,7 @@ INSERT INTO health_survey.ref_hie_access_level(
 
 INSERT INTO health_survey.ref_hie_access_level(
 	 hie_level, hie_level_desc, hie_top_access)
-	VALUES ('B', 'Base Admin', 100);
+	VALUES ('B', 'Base Admin', 100); 
 
 
 --health_survey.admin_master
